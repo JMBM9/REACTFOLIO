@@ -3,6 +3,9 @@ REACT PORTFOLIO
 
 In the project directory, you can run:
 
+usage:
+npm install 
+
 ### yarn start or npm start
 
 Runs the app in the development mode.\
