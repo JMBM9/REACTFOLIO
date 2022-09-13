@@ -1,8 +1,6 @@
 {
   "name": "react-portfolio",
   "homepage": "http://JMBM89.github.io/REACTFOLIO",
-
-
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,8 +15,8 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages-d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
