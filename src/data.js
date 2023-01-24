@@ -39,6 +39,14 @@ export const projects = [
     image: "./moneywatcha.PNG",
     link: "https://moneywatcha.herokuapp.com/",
   },
+  {
+    title: "Food-Festival",
+    subtitle: "Want to experience new food? try it out",
+    description:
+      "Are you hungry? I hope so!",
+    image: "./foodfest.PNG",
+    link: "https://jmbm9.github.io/food-festival/",
+  },
   
 ];
 

@@ -12,7 +12,7 @@ export default function Projects() {
         PROJECT LOG
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            This is a list of previous projects
+            This is a list of previous projects i have worked on
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
