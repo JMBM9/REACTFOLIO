@@ -11,8 +11,7 @@ export default function About() {
             
           </h1>
           <p className="mb-8 leading-relaxed">
-          I am a student at UCF learning about web development to sharpen my skills. I am from the Dominican Republic and live in the united states
-          for quite sometime now. I got into coding due to a interest in technology and learning the ability to create my own applications.
+          I am from the Dominican Republic I have been living in the U.S since 2005 ,I got into programing due to the ability to contribute to the world.
           </p>
           <div className="flex justify-center">
             <a
